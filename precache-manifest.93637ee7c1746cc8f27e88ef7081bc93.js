@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7bd93889ef984c397568",
+    "revision": "18ebd0c2af111cf98c3b",
     "url": "/equilibriums/static/css/main.c0d0206c.chunk.css"
   },
   {
-    "revision": "7bd93889ef984c397568",
-    "url": "/equilibriums/static/js/main.b60d665d.chunk.js"
+    "revision": "18ebd0c2af111cf98c3b",
+    "url": "/equilibriums/static/js/main.0c20dfde.chunk.js"
   },
   {
     "revision": "0c4c2a8216c9d6db3f21",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/equilibriums/static/js/2.579c10b5.chunk.js"
   },
   {
-    "revision": "e72cef7776c246bba7ef03dbb6bea450",
+    "revision": "924f7686f913cb0356bd8fb6ef96122c",
     "url": "/equilibriums/index.html"
   }
 ];

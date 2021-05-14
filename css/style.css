@@ -6,6 +6,7 @@ body, html {
 	font-weight: 400;
 	width: 100% !important;
 	height: 100% !important;
+	background-color: #00BAEF
 }
 h2, h3, h4 {
 	font-family: 'Raleway', sans-serif;
@@ -568,11 +569,10 @@ color: #777;
 }
 /* Footer Section*/
 #footer {
-	background: #f6f6f6;
+	background: #00BAEF;
 	padding: 30px 0;
 }
 #footer p {
-	color: #888;
 	font-size: 14px;
 }
 #footer a {
@@ -588,6 +588,7 @@ color: #777;
 }
 #footer span {
 	float: right;
+	color: #121212;
 }
 
 @media (max-width: 768px) {
