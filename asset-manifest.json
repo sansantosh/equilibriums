@@ -1,13 +1,13 @@
 {
-  "main.css": "/sansantosh/equilibriums/static/css/main.c0d0206c.chunk.css",
-  "main.js": "/sansantosh/equilibriums/static/js/main.091c2143.chunk.js",
-  "main.js.map": "/sansantosh/equilibriums/static/js/main.091c2143.chunk.js.map",
-  "runtime~main.js": "/sansantosh/equilibriums/static/js/runtime~main.a905bb1a.js",
-  "runtime~main.js.map": "/sansantosh/equilibriums/static/js/runtime~main.a905bb1a.js.map",
-  "static/js/2.579c10b5.chunk.js": "/sansantosh/equilibriums/static/js/2.579c10b5.chunk.js",
-  "static/js/2.579c10b5.chunk.js.map": "/sansantosh/equilibriums/static/js/2.579c10b5.chunk.js.map",
-  "index.html": "/sansantosh/equilibriums/index.html",
-  "precache-manifest.9a4197698e5842b4552cf74c3232df69.js": "/sansantosh/equilibriums/precache-manifest.9a4197698e5842b4552cf74c3232df69.js",
-  "service-worker.js": "/sansantosh/equilibriums/service-worker.js",
-  "static/css/main.c0d0206c.chunk.css.map": "/sansantosh/equilibriums/static/css/main.c0d0206c.chunk.css.map"
+  "main.css": "/equilibriums/static/css/main.c0d0206c.chunk.css",
+  "main.js": "/equilibriums/static/js/main.35fe21ba.chunk.js",
+  "main.js.map": "/equilibriums/static/js/main.35fe21ba.chunk.js.map",
+  "runtime~main.js": "/equilibriums/static/js/runtime~main.f8dbfaad.js",
+  "runtime~main.js.map": "/equilibriums/static/js/runtime~main.f8dbfaad.js.map",
+  "static/js/2.579c10b5.chunk.js": "/equilibriums/static/js/2.579c10b5.chunk.js",
+  "static/js/2.579c10b5.chunk.js.map": "/equilibriums/static/js/2.579c10b5.chunk.js.map",
+  "index.html": "/equilibriums/index.html",
+  "precache-manifest.db84f8855bbacf9e9df9dc24b7297507.js": "/equilibriums/precache-manifest.db84f8855bbacf9e9df9dc24b7297507.js",
+  "service-worker.js": "/equilibriums/service-worker.js",
+  "static/css/main.c0d0206c.chunk.css.map": "/equilibriums/static/css/main.c0d0206c.chunk.css.map"
 }

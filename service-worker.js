@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sansantosh/equilibriums/precache-manifest.9a4197698e5842b4552cf74c3232df69.js"
+  "/equilibriums/precache-manifest.db84f8855bbacf9e9df9dc24b7297507.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sansantosh/equilibriums/index.html", {
+workbox.routing.registerNavigationRoute("/equilibriums/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
